@@ -1,0 +1,1 @@
+fun sum3(a: Int, b: Int) = a * a * a + b * b * b
