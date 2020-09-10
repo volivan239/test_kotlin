@@ -1,2 +1,2 @@
-package sum2
+package sum
 fun sum2(a: Int, b: Int) = a * a + b * b
