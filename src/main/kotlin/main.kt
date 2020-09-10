@@ -2,6 +2,8 @@ fun hw() {
     println("Hello, world!")
 }
 
+fun sum(a: Int, b: Int) = a + b
+
 fun hw2() {
     println("Hello, world! Hello, world!")
 }
