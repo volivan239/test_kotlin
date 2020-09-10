@@ -1,1 +1,1 @@
-this is the first project with Kotlin, git, etc. Idk what it will be for
+The program reads 2 integers on 2 separate lines and print sum of them.
