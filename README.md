@@ -1,1 +1,1 @@
-The program reads 2 integers on 2 separate lines and print sum of them.
+The program read sequence of integers and print them in sorted order.

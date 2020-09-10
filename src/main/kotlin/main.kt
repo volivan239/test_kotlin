@@ -1,5 +1,4 @@
 fun main() {
-    val a = readLine()!!.toInt()
-    val b = readLine()!!.toInt()
-    println(a + b)
+    val a = readLine()!!.split(" ").map { it.toInt() }.sorted()
+    println(a)
 }
