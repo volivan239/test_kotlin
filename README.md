@@ -5,3 +5,5 @@ Also has very powerful function called hw (prints "Hello world!" in stdout) and 
 Useful information #1
 
 Useful information #2
+
+Useful information #3
